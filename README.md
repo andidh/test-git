@@ -1,8 +1,5 @@
-# test-git
-from master new
-line 1
-line 2
-line 3
+new line
+new line 2
 line 4
 line from git rebase
-new line
+line from test merge

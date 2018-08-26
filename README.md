@@ -1,4 +1,4 @@
 # test-git
-from master
+from master new
 
 from my_banch

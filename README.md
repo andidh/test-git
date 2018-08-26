@@ -1,2 +1,2 @@
 # test-git
-from master
+from master new

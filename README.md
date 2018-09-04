@@ -6,3 +6,4 @@ line 3
 line 4
 line from git rebase
 new line
+new line 2
